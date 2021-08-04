@@ -1,6 +1,6 @@
-module golang.org/x/net
+module github.com/WorldProgrammingLtd/net
 
-go 1.17
+go 1.16
 
 require (
 	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
